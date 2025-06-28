@@ -3,13 +3,13 @@ Data: 28/06/2025
 Empresa: Abstergo Industries
 Responsável: Orion Alves
 
-Introdução
+## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Orion Alves. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
-Descrição do Projeto
+## Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
-Etapa 1:
+## Etapa 1:
 
 Nome da ferramenta: Amazon EC2 Auto Scaling
 
@@ -17,7 +17,7 @@ Foco da ferramenta: Ajuste automático da capacidade de instâncias EC2 conforme
 
 Descrição de caso de uso: Configuração de grupos de Auto Scaling para aumentar ou diminuir automaticamente a quantidade de instâncias EC2 conforme o tráfego da aplicação, evitando gastos desnecessários com capacidade ociosa e garantindo alta disponibilidade.
 
-Etapa 2:
+## Etapa 2:
 
 Nome da ferramenta: AWS Lambda
 
@@ -25,7 +25,7 @@ Foco da ferramenta: Execução de código sem gerenciamento de servidores, com c
 
 Descrição de caso de uso: Automatização de processamento de eventos de arquivos enviados para S3, eliminando a necessidade de servidores dedicados e reduzindo custos operacionais.
 
-Etapa 3:
+## Etapa 3:
 
 Nome da ferramenta: AWS Budgets
 
