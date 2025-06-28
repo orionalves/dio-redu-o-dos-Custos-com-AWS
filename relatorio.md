@@ -36,7 +36,8 @@ Descrição de caso de uso: Configuração de orçamentos para diferentes depart
 Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução imediata dos custos operacionais, otimização do uso de recursos e aumento da eficiência nos processos de armazenamento e processamento de dados, o que aumentará a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-Anexos
+Anexos:
+
 [Amazon EC2 Auto Scaling](https://aws.amazon.com/pt/ec2/)
 
 [AWS Lambda](https://aws.amazon.com/pt/lambda)
