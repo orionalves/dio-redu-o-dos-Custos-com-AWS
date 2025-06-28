@@ -33,11 +33,10 @@ Foco da ferramenta: Monitoramento e controle de gastos com alertas personalizado
 
 Descrição de caso de uso: Configuração de orçamentos para diferentes departamentos ou projetos, com alertas automáticos enviados quando os gastos se aproximam dos limites definidos, facilitando o controle financeiro e prevenção de custos excessivos.
 
-Conclusão
+## Conclusão
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução imediata dos custos operacionais, otimização do uso de recursos e aumento da eficiência nos processos de armazenamento e processamento de dados, o que aumentará a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-Anexos:
-
+## Anexos:
 [Amazon EC2 Auto Scaling](https://aws.amazon.com/pt/ec2/)
 
 [AWS Lambda](https://aws.amazon.com/pt/lambda)
